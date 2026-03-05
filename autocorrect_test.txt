@@ -1,0 +1,30 @@
+--- Page 1 ---
+Meeting Notes:Project
+May 15th2024
+Database Migration
+Current DB is Myself 5.7
+Migrate to AWS RDS PostgreSQL 14
+Plan: schema mapping, data validation test run
+-Issues:Large historical table 1.2TB needs chucking
+Strategy's AWS DMS for ongoing replication
+Schedule:Cutover weekend:June target
+User Authentication
+User
+Auto Service
+Login Form
+Check
+Issue JWT
+A
+No
+(Success!)
+Error Mug
+Task
+Owner
+Setup RDS
+Mike
+Rewrite Queries
+Saran
+Data Verification
+Configure DMS
+John
+When

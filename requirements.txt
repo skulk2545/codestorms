@@ -1,0 +1,13 @@
+paddleocr==2.7.3
+paddlepaddle==2.6.2
+pdf2image==1.17.0
+opencv-python==4.6.0.66
+pandas==2.1.4
+pyspellchecker==0.8.1
+numpy==1.26.4
+customtkinter==5.2.2
+pillow==10.2.0
+streamlit==1.31.1
+pypdfium2==4.26.0
+sentence-transformers==2.5.1
+torch==2.2.1
